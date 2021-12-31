@@ -15,14 +15,14 @@ import React from 'react'
 // import UseContext from './components/52-useContext'
 // import UseEffect from './components/53-useEffect'
 // import ChangeTitle from './components/54-title-hook'
-// import Pokemon from './components/55-API-axios-useEffect'
+import Pokemon from './components/55-API-axios-useEffect'
 // import ReactRouter from './components/56-58-Router'
 // import UseRouterHooks from './components/59-61-useParam-Location-History/'
 // import Error404VsRedirect from './components/64-65-Error404VsRedirect'
 // ***********************************************************
 // import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 // import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js'
-import BootstrapWeb from './components/67-Bootstrap'
+// import BootstrapWeb from './components/67-Bootstrap'
 // ***********************************************************
 // import Test from './components/react-bootstrap-test'
 // import HooksBenAwads from './components/HooksbenAwads'
@@ -47,13 +47,13 @@ function App() {
       {/* <UseEffect/> */}
       {/* <ChangeTitle/> */}
 
-      {/* <Pokemon/> */}
+      <Pokemon/>
 
       {/* <ReactRouter/> */}
       {/* <UseRouterHooks/> */}
       {/* <Error404VsRedirect/> */}
 
-      <BootstrapWeb />
+      {/* <BootstrapWeb /> */}
 
       {/* <Test/> */}
       {/* <HooksBenAwads/> */}
